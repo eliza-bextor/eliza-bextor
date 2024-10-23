@@ -1,7 +1,7 @@
 ## hi there!
 About me:
 - Fullstack developer
-- Prefer web development, however non-web projects are also exist
+- Prefer web development, however non-web projects also exist
 
   
 <!--
