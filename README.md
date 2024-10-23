@@ -1,5 +1,9 @@
-## Hi there 👋
+## hi there!
+About me:
+- Fullstack developer
+- Prefer web development, however non-web projects are also exist
 
+  
 <!--
 **eliza-bextor/eliza-bextor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
